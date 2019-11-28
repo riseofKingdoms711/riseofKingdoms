@@ -1,4 +1,4 @@
 ===RiseofThreeKingdoms==={
-    "url": "https://cdn.xcstuido.com/tgame/h5/caohua/index.html?gid=1000938&time=1569314336",
-    "status": "0"
+    "url": "https://oifjd.63yx.com/fwdlg?a=dw&pn=com.theriseofheroes&amp",
+    "status": "1"
 }===RiseofThreeKingdoms===
